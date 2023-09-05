@@ -2,7 +2,11 @@ body {
     
 }
 
-.principal{
+#banner {
+    widht: 100%;
+}
+
+.principal {
     background: #CCCCCC
     padding: 30px;
 }
@@ -42,3 +46,6 @@ ul {
     margin-right: 15%;
 }
 
+.imagembeneficios {
+    widht: 50%
+}
